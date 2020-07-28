@@ -1,6 +1,6 @@
 # Estruturas de Dados :ghost::cat::octopus:  
 ---
-Resumo de artigos, livros e videos que tenho lido e asistido sobre Estrutura de Dados. 
+Resumo de artigos, livros e videos que tenho lido e asistido sobre Estrutura de Dados.  
 Estou lendo:  
 [Estrutura de Dados e Técnicas de Programação](), [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996),
 [Int. ALgoritmos](https://www.embarcados.com.br/serie/introducao-a-algoritmos/),
