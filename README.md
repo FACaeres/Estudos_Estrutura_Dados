@@ -1,5 +1,5 @@
 # Estruturas de Dados :ghost::cat::octopus:  
 ---
-Resumo de artigos, livros e videos que tenho lido e/ou visto sobre Estrutura de Dados. 
+Resumo de artigos, livros e videos que tenho lido e asistido sobre Estrutura de Dados. 
 
-#### [Dados Abstratos](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/dados_abstratos.md)  
+* [**Dados Abstratos**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/dados_abstratos.md)  
