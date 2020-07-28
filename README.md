@@ -3,7 +3,10 @@
 Resumo de artigos, livros e videos que tenho lido e asistido sobre Estrutura de Dados.  
 Estou lendo:  
 [Estrutura de Dados e Técnicas de Programação](), [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996),
-[Int. ALgoritmos](https://www.embarcados.com.br/serie/introducao-a-algoritmos/),
+[Int. ALgoritmos](https://www.embarcados.com.br/serie/introducao-a-algoritmos/).  
+
+Estou assistindo:  
+[Int. Estrutura de Dados - UNIVESP TV](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
 
 ### Resumo
 
