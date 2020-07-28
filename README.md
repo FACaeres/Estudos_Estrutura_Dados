@@ -1,2 +1,4 @@
-# Estudos_Estrutura_Dados
-Estudos Estruturas de Dados XD
+# Estruturas de Dados :ghost::cat::octopus:  
+---
+
+#### [Dados Abstratos](https://emojipedia.org/cat-face/)  
