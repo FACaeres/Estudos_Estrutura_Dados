@@ -13,6 +13,7 @@ Estou assistindo:
 * [**Dados Abstratos**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/dados_abstratos.md)  
 * [**Algoritmos**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/algoritmos.md)
 * [**Modularidade**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/modularidade.md)
+* [**Tipos de Dados**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/tipos_dados.md)
 
 > Obs.: São notas e observações que guardo enquanto leio o material citado.  
 > Estou apenas iniciando minha caminhada, o que é postado nesse repositório vai funcionar  
