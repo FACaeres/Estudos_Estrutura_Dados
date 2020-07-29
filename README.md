@@ -1,4 +1,4 @@
-# Estruturas de Dados :ghost::cat::octopus:  
+# Estruturas de Dados :octocat::computer:  
 ---
 Resumo de artigos, livros e videos que tenho lido e asistido sobre Estrutura de Dados.  
 Estou lendo:  
@@ -14,6 +14,6 @@ Estou assistindo:
 * [**Algoritmos**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/algoritmos.md)
 * [**Modularidade**](https://github.com/fagnercaeres/Estudos_Estrutura_Dados/blob/master/1%C2%BASemana/modularidade.md)
 
-> Obs.:São notas e observações que guardo enquanto leio o material citado.  
+> Obs.: São notas e observações que guardo enquanto leio o material citado.  
 > Estou apenas iniciando minha caminhada, o que é postado nesse repositório vai funcionar  
-> como um diário de aprendizagem :smile_cat: 
+> como um diário de aprendizagem :fist_raised: 
