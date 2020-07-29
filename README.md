@@ -7,6 +7,7 @@ Estou lendo:
 
 Estou assistindo:  
 [Int. Estrutura de Dados - UNIVESP TV](https://www.youtube.com/playlist?list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl)
+---
 
 ### Resumo
 
